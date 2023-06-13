@@ -1,6 +1,7 @@
 import joblib
 import pandas as pd
 import numpy as np
+app.run(host="0.0.0.0", port=int(os.environ.get('PORT', 8080)))
 import os
 import warnings
 warnings.filterwarnings("ignore", "SettingWithCopyWarning")
