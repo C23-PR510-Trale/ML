@@ -1,0 +1,101 @@
+trip_id,trip_name,category,budget,rating,location
+1,Taste of Jakarta,Culinary,743432,3.5,Jakarta
+2,Historical Heritage,History,215340,4.2,Yogyakarta
+3,Local Culture Experience,Culture,552740,4.6,Surabaya
+4,Iconic Landmarks,Landmark,628543,4.8,Bandung
+5,Culinary Delights,Culinary,325931,3.1,Malang
+6,Historical Journeys,History,752191,4.4,Bali
+7,Cultural Immersion,Culture,482950,4.9,Semarang
+8,Landmark Adventures,Landmark,911237,4.7,Surakarta
+9,Gourmet Experiences,Culinary,289789,3.2,Jakarta
+10,Timeless Trails,History,672903,4.5,Yogyakarta
+11,Cultural Exploration,Culture,425689,4.8,Surabaya
+12,Architectural Wonders,Landmark,566742,4.2,Bandung
+13,Taste of Malang,Culinary,382548,3.7,Malang
+14,Historical Wonders,History,817642,4.9,Bali
+15,Cultural Festivals,Culture,498352,4.1,Semarang
+16,Iconic Structures,Landmark,613902,4.7,Surakarta
+17,Flavors of Jakarta,Culinary,287513,3.8,Jakarta
+18,Historical Gems,History,598281,4.6,Yogyakarta
+19,Cultural Heritage,Culture,426842,4.5,Surabaya
+20,Archaeological Sites,Landmark,487694,4.3,Bandung
+21,Gourmet Adventure,Culinary,345219,2.9,Malang
+22,Timeless Tales,History,672359,4.8,Bali
+23,Cultural Enrichment,Culture,543290,4.4,Semarang
+24,Landmark Discovery,Landmark,719381,4.7,Surakarta
+25,Taste of Yogyakarta,Culinary,298491,3.3,Yogyakarta
+26,Historical Exploration,History,746972,4.9,Jakarta
+27,Cultural Discoveries,Culture,514839,4.1,Surabaya
+28,Architectural Marvels,Landmark,634519,4.6,Bandung
+29,Gourmet Delights,Culinary,392431,3.7,Malang
+30,Time Travelers,History,691902,4.5,Bali
+31,Cultural Encounters,Culture,439271,4.3,Semarang
+32,Iconic Landscapes,Landmark,567912,4.7,Surakarta
+33,Flavors of Surabaya,Culinary,315890,3.2,Surabaya
+34,Historical Trails,History,648127,4.9,Jakarta
+35,Local Traditions,Culture,552713,4.1,Yogyakarta
+36,Architectural Marvels,Landmark,491083,4.5,Bandung
+37,Taste of Bali,Culinary,389125,3.5,Malang
+38,Historical Heritage,History,791432,4.8,Bali
+39,Cultural Journeys,Culture,452379,4.2,Semarang
+40,Landmark Expeditions,Landmark,619241,4.6,Surakarta
+41,Street Food Delights,Culinary,362415,3.4,Jakarta
+42,Timeless Treasures,History,705943,4.7,Yogyakarta
+43,Cultural Encounters,Culture,517693,4.3,Surabaya
+44,Iconic Landmarks,Landmark,646298,4.8,Bandung
+45,Gourmet Escapades,Culinary,428694,3.6,Malang
+46,Historical Wonders,History,718231,4.9,Bali
+47,Cultural Festivals,Culture,495317,4.1,Semarang
+48,Landmark Adventures,Landmark,599813,4.7,Surakarta
+49,Taste of Jakarta,Culinary,324827,3.2,Jakarta
+50,Historical Gems,History,686194,4.6,Yogyakarta
+51,Local Culture Experience,Culture,545369,4.5,Surabaya
+52,Architectural Marvels,Landmark,483982,4.2,Bandung
+53,Gourmet Exploration,Culinary,385267,3.8,Malang
+54,Timeless Tales,History,712934,4.9,Bali
+55,Cultural Heritage,Culture,511322,4.3,Semarang
+56,Iconic Structures,Landmark,633940,4.7,Surakarta
+57,Taste of Bandung,Culinary,326816,3.5,Bandung
+58,Historical Journeys,History,687532,4.8,Jakarta
+59,Cultural Exploration,Culture,437621,4.1,Yogyakarta
+60,Archaeological Sites,Landmark,595862,4.6,Surabaya
+61,Gourmet Adventures,Culinary,374593,3.4,Malang
+62,Timeless Trails,History,699381,4.9,Bali
+63,Cultural Enrichment,Culture,505189,4.3,Semarang
+64,Landmark Discovery,Landmark,638241,4.7,Surakarta
+65,Flavors of Bali,Culinary,312409,3.2,Bali
+66,Historical Exploration,History,711273,4.6,Jakarta
+67,Cultural Discoveries,Culture,527413,4.5,Yogyakarta
+68,Architectural Marvels,Landmark,469641,4.2,Surabaya
+69,Taste of Semarang,Culinary,389752,3.8,Semarang
+70,Historical Gems,History,788314,4.9,Bandung
+71,Cultural Heritage,Culture,434593,4.1,Malang
+72,Iconic Landmarks,Landmark,599419,4.7,Surakarta
+73,Street Food Delights,Culinary,376182,3.4,Jakarta
+74,Timeless Treasures,History,715982,4.8,Yogyakarta
+75,Cultural Encounters,Culture,520976,4.3,Surabaya
+76,Architectural Marvels,Landmark,642327,4.8,Bandung
+77,Gourmet Escapades,Culinary,392418,3.6,Malang
+78,Historical Wonders,History,711882,4.9,Bali
+79,Cultural Festivals,Culture,503724,4.1,Semarang
+80,Landmark Expeditions,Landmark,625181,4.7,Surakarta
+81,Taste of Surakarta,Culinary,314072,3.3,Surakarta
+82,Historical Trails,History,679412,4.6,Jakarta
+83,Local Traditions,Culture,565912,4.5,Yogyakarta
+84,Architectural Marvels,Landmark,484216,4.2,Surabaya
+85,Gourmet Adventures,Culinary,367594,3.8,Bandung
+86,Timeless Tales,History,694831,4.9,Malang
+87,Cultural Heritage,Culture,511239,4.3,Bali
+88,Iconic Structures,Landmark,639571,4.7,Semarang
+89,Taste of Jakarta,Culinary,329518,3.2,Jakarta
+90,Historical Journeys,History,692134,4.6,Yogyakarta
+91,Cultural Exploration,Culture,527491,4.5,Surabaya
+92,Archaeological Sites,Landmark,462137,4.2,Bandung
+93,Gourmet Experiences,Culinary,382579,3.8,Malang
+94,Time Travelers,History,721094,4.9,Bali
+95,Cultural Enrichment,Culture,502491,4.1,Semarang
+96,Landmark Discovery,Landmark,641259,4.7,Surakarta
+97,Flavors of Yogyakarta,Culinary,324179,3.3,Yogyakarta
+98,Historical Exploration,History,693825,4.6,Jakarta
+99,Cultural Discoveries,Culture,522351,4.5,Surabaya
+100,Architectural Marvels,Landmark,482361,4.2,Bandung
