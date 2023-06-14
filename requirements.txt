@@ -5,3 +5,5 @@ Joblib==1.2.0
 Pandas==2.0.2
 helper==2.5.0 
 pyyaml==6.0
+scikit-learn
+
