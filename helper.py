@@ -41,15 +41,21 @@ def make_prediction(category, budget, num_of_recom):
     trip_id = top_K_points["trip_id"].to_numpy()
     trip_name = top_K_points["trip_name"].to_numpy()
     budget = top_K_points["budget"].to_numpy()
+    rating = top_K_points["rating"].to_numpy()
+    location = top_K_points["location"].to_numpy()
 
     trip_id = trip_id.tolist()
     trip_name = trip_name.tolist()
     budget = budget.tolist()
+    rating = rating.tolist()
+    location = location.tolist()
 
     output = {
         "trip_id":trip_id,
         "trip_name":trip_name,
-        "budget":budget
+        "budget":budget,
+        "rating":rating,
+        "location":location
     }
 
     return output
