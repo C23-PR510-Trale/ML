@@ -1,1 +1,2 @@
 # ML
+ Gathering datasets from Kaggle and for addition we add the data dummy. Building models with scikit-learn and flask. We applied clustering to give recommendations based on the similarity package as a function of the main feature. We tried to create 2 models, bucket trip plan that inputs category and budget as the features with Kmeans to seek TopK and outputting Trips with nearest distance of embedded features if calculated using euclidean distance and voluntrip features with content based filtering.  
